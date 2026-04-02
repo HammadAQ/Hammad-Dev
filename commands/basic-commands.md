@@ -105,7 +105,7 @@ This is a personal learning project, but suggestions and improvements are welcom
 
 ## Author
 
-**Hammad Janjua**
+**Hammad Ahmed**
 Aspiring DevOps Engineer | Linux | Networking | Cloud
 
 ---
