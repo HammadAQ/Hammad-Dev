@@ -9,16 +9,16 @@
 ---
 
 ##  My DevSecOps Roadmap:
-- [x] Network Security & Administration ✅
-- [x] Cybersecurity & SOC Operations ✅
-- [x] Google Cybersecurity Professional Certificate ✅
-- [ ] Linux System Administration 🔄 In Progress
-- [ ] Bash Scripting & Automation 🔄 In Progress
-- [ ] Git & GitHub 📌 Next
-- [ ] Docker & Containers 📌 Planned
-- [ ] CI/CD Pipelines 📌 Planned
-- [ ] Cloud — AWS/Azure 📌 Planned
-- [ ] DevSecOps Tools 📌 Planned
+- [x] Network Security & Administration (done)
+- [x] Cybersecurity & SOC Operations (done)
+- [x] Google Cybersecurity Professional Certificate (done)
+- [ ] Linux System Administration (In Progress)
+- [ ] Bash Scripting & Automation (In Progress)
+- [ ] Git & GitHub (Next)
+- [ ] Docker & Containers (Planned)
+- [ ] CI/CD Pipelines (Planned)
+- [ ] Cloud — AWS/Azure (Planned)
+- [ ] DevSecOps Tools (Planned)
 
 ---
 
