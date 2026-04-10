@@ -12,6 +12,7 @@
 - [x] Network Security & Administration (done)
 - [x] Cybersecurity & SOC Operations (done)
 - [x] Google Cybersecurity Professional Certificate (done)
+- [x] Bash Scripting Basics (First script written!)
 - [ ] Linux System Administration (In Progress)
 - [ ] Bash Scripting & Automation (In Progress)
 - [ ] Git & GitHub (Next)
