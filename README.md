@@ -18,7 +18,7 @@
 - [x] Linux Commands & Navigation 
 - [x] File Permissions & chmod 
 - [x] Environment Variables & .bashrc 
-- [x] Bash Scripting Basics  *(First script written!)*
+- [x] Bash Scripting Basics  *(First script written)*
 - [ ] Advanced Bash Scripting (In Progress)
 - [ ] Git & GitHub  Next
 - [ ] Docker & Containers  Planned
